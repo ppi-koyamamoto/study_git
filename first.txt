@@ -1,5 +1,0 @@
-Let's start git.
-Hello World!
-・git add
-・git commit
-・git rm
